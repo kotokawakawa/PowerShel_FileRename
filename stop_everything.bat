@@ -1,3 +1,1 @@
-stop_everything.bat
-stop_everything.bat
-stop_everything.bat
+taskkill /F /IM powershell.exe
